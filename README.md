@@ -1,2 +1,0 @@
-# Docker
-test-mongo-app
